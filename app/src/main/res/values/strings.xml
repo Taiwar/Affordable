@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Affordable</string>
+    <string name="default_balance">0</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+    <string name="form_amount">Amount</string>
+</resources>
